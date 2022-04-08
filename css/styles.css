@@ -1,0 +1,24 @@
+.profileSection {
+  border-spacing: 40px;
+}
+.proficiency {
+  color: red;
+}
+
+h1 {
+  color: #95D1CC;
+}
+h3 {
+  color: #5584AC;
+}
+hr {
+  border-color: grey;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  width: 2%;
+}
+body {
+  background-color:#EEEDDE;
+}
